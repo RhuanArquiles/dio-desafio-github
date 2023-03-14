@@ -3,7 +3,7 @@
  - clonar o repositório 
  - Criar uma pasta local 
  - no git bash usar os comandos :
- ##
+ ## [COMANDOS]
  - git status -- Para se certificar de que a árvore de trabalho está limpa
  - depois de feitas as alterações
  - git add . -- Para incluir as alterações no commit
